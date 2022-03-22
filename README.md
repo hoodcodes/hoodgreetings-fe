@@ -12,3 +12,7 @@ Goals:
 
 - React (TypeScript)
 -
+
+### Backend
+
+Initially have a RESTful API in C#, simply for prototyping.

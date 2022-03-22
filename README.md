@@ -16,3 +16,7 @@ Goals:
 ### Backend
 
 Initially have a RESTful API in C#, simply for prototyping.
+
+### Progress
+
+[] Create a reusable template for a front page with a header, navigation bar, body, and footer.
